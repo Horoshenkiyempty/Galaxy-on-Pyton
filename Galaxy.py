@@ -5,7 +5,7 @@ vec2, vec3 = pg.math.Vector2, pg.math.Vector3
 RES = WIDTH, HEIGHT = 1920, 1080
 NUM_STARS = 1500
 CENTER = vec2(WIDTH // 2, HEIGHT // 2)
-COLORS = 'red gree blue orange purple cyan'.split()
+COLORS = 'red green blue orange purple cyan'.split()
 Z_DISTANCE = 40
 ALPHA = 120
 class Star:
